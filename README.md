@@ -1,8 +1,6 @@
-![img](https://github.com/neuresthetics/riemann_hypothesis)
+![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/true_only_possible_with_logic.png)
 
-![img](https://github.com/neuresthetics/riemann_hypothesis)
-
-![img](https://github.com/neuresthetics/riemann_hypothesis)
+![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/readme_tree.png)
 
 ### Axiom Tree for the Heuristic Affirmation of the Riemann Hypothesis
 
