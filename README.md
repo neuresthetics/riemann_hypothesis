@@ -8,7 +8,7 @@ This collision elevates RH from conjecture to geometric necessity, aligning with
 
 See:
 
-https://github.com/vfd-org/constraint-closure-diagnostics
+https://github.com/vfd-org/constraint-closure-diagnostics < author swears up and down their work is not a solution, so maybe theirs is just part of mine.
 
 for framework details, and `/vdf_integration` for closure details.
 
