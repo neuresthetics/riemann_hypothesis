@@ -24,6 +24,10 @@ for framework details, and `/vdf_integration` for closure details.
 
 ---
 
+/update
+
+---
+
 ![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/true_only_possible_with_logic.png)
 
 ![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/readme_tree.png)
