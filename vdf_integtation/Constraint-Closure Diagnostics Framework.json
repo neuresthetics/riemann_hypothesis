@@ -1,0 +1,139 @@
+{
+  "vfd_constraint_closure_diagnostics": {
+    "name": "Constraint-Closure Diagnostics Framework",
+    "description": "A diagnostic tool for evaluating mathematical structures through hierarchical constraints and falsifiability tests, applied to RH-motivated spectral constructions. Focuses on identifying structural obstructions in classical frameworks, promoting asymptotics to invariants via bridges.",
+    "repository_url": "https://github.com/vfd-org/constraint-closure-diagnostics",
+    "x_thread_url": "https://x.com/VFD_org/status/2011586398655057965?s=20",
+    "core_result": "RH is not provable in classical analytic frameworks due to structural obstructions; bridges explicate geometry for forced closure in meta-space.",
+    "definitions": [
+      {
+        "term": "Constraint-Closure Diagnostic Framework",
+        "definition": "Hierarchical system (L0–L4 ladder) for structure evaluation via positivity, symmetry, and bridges to zero-like points."
+      },
+      {
+        "term": "Asymptotic Boundary",
+        "definition": "Non-shrinking precision limit (~99.9997%, ρ=0.9997, RMSE=1098) signaling fixed structural gaps."
+      },
+      {
+        "term": "Structural Obstruction",
+        "definition": "Implicit geometric constraints preventing classical closure, diagnosed via persistent residuals."
+      },
+      {
+        "term": "Bridge Mapping",
+        "definition": "Testable projection from internal spectra to reference points, sensitive to perturbations (e.g., ρ drops to 0.008)."
+      },
+      {
+        "term": "Improbability Bound",
+        "definition": "Probability (~10⁻¹⁶⁵) of accidental classical closure, ruling out coincidences."
+      },
+      {
+        "term": "Meta-Space Closure",
+        "definition": "Promotion of asymptotics to 100% invariance by explicating constraints, forcing RH as consequence."
+      }
+    ],
+    "axioms": [
+      {
+        "id": "A1",
+        "name": "Asymptotic Fidelity",
+        "statement": "Classical techniques yield high but non-closing precision, with residuals as fixed boundaries (from CLI sweeps)."
+      },
+      {
+        "id": "A2",
+        "name": "Perturbation Sensitivity",
+        "statement": "Degradations expose non-random structure (e.g., RMSE increases under scale perturbations)."
+      },
+      {
+        "id": "A3",
+        "name": "Provability Distinction",
+        "statement": "Truth does not imply classical provability; obstruction is geometric (tetralemma resolved)."
+      },
+      {
+        "id": "A4",
+        "name": "Improbability Prior",
+        "statement": "Accidental closure defies universe-scale odds (~10⁻¹⁶⁵ from correlations)."
+      },
+      {
+        "id": "A5",
+        "name": "Reproducibility Invariant",
+        "statement": "All outputs deterministic (seed 42 hash verifiable via tools)."
+      }
+    ],
+    "propositions": [
+      {
+        "id": "P1",
+        "name": "Failure of Classical Closure",
+        "statement": "Asymptotics signal missing structure; gaps stable across refinements (from A1, A2)."
+      },
+      {
+        "id": "P2",
+        "name": "Bridge as Structural Promoter",
+        "statement": "Explicates geometry to force invariance (from A3, figs 2-6)."
+      },
+      {
+        "id": "P3",
+        "name": "Obstruction as Diagnostic Signal",
+        "statement": "Boundary is the obstruction itself (tetralemma: both/neither in tuning)."
+      },
+      {
+        "id": "P4",
+        "name": "Forcing via Minimal Extension",
+        "statement": "Constraints yield meta-closure without new assumptions (from A5)."
+      },
+      {
+        "id": "P5",
+        "name": "Improbability Rules Out Coincidence",
+        "statement": "Derivation would defy odds (from A2, A4)."
+      }
+    ],
+    "corollaries": [
+      {
+        "id": "C1",
+        "name": "Historical Progress Explanation",
+        "statement": "Close approximations stall at obstruction (from P1)."
+      },
+      {
+        "id": "C2",
+        "name": "Non-Technical Gap Nature",
+        "statement": "Geometric, not logical (from P2)."
+      },
+      {
+        "id": "C3",
+        "name": "Result Over Proposal",
+        "statement": "Verifiable unprovability classically (from P3)."
+      },
+      {
+        "id": "C4",
+        "name": "Synergy with Conjectures",
+        "statement": "Aligns with Hilbert-Pólya (from P4)."
+      },
+      {
+        "id": "C5",
+        "name": "Ethical/Reproducible Imperative",
+        "statement": "Open MIT-licensed verification (from P5)."
+      }
+    ],
+    "final_theorem": {
+      "name": "Structural Necessity of RH",
+      "statement": "RH as fixed-point invariant in constraint framework; unprovable classically via improbability and sensitivity (tetralemma unified; all statuses closed under verification)."
+    },
+    "handling_rules": [
+      "Run diagnostics via CLI (e.g., rhdiag bundle --seed 42) for reproducibility.",
+      "Validate obstructions with perturbations; flag non-closure as structural.",
+      "Export metrics (ρ, RMSE) to bound variances; integrate improbability priors.",
+      "Tetralemma probe gaps: affirm force/deny sufficiency/both in asymptotics/neither in accidents.",
+      "Dissolve unsubstantiated claims; fuel residuals to extensions."
+    ],
+    "hardening_metadata": {
+      "evaluation_date": "2026-01-14",
+      "results_summary": {
+        "precision": 99.9997,
+        "improbability": "10^-165",
+        "convergence": "100% in meta-space",
+        "fixed_point": true
+      },
+      "changes": [
+        "Steelmanned from repo and thread for maximal axiomatic rigor."
+      ]
+    }
+  }
+}
