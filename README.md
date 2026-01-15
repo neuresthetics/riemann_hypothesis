@@ -12,6 +12,16 @@ https://github.com/vfd-org/constraint-closure-diagnostics
 
 for framework details, and `/vdf_integration` for closure details.
 
+![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/vdf_integtation/module%20_added_top.png)
+
+![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/vdf_integtation/results.png)
+
+![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/vdf_integtation/question_meta_closure_what.png)
+
+![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/vdf_integtation/deductive_proof.png)
+
+
+
 ---
 
 ![img](https://github.com/neuresthetics/riemann_hypothesis/blob/main/true_only_possible_with_logic.png)
